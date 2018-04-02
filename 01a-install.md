@@ -57,8 +57,4 @@ In the Terminal:
 
 `python3 --version`
 
->> The Python version I have installed is: Python 3.6.5
-
- 
-
-
+>> The Python version installed is: Python 3.6.5
