@@ -49,7 +49,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I have created an environment specifically for metis bootcamp with Python 3 and all the necessary packages installed. However, I do have access to Python 2 as well.
 
 ### Q2. Which Python Version Installed   
 
@@ -57,7 +57,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> The Python version I have installed is: Python 3.6.5
 
  
 
