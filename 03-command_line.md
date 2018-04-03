@@ -20,10 +20,12 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > * pwd : show current working directory path
+> > 
+   * pwd : show current working directory path
    * mkdir [dir] : create a directory
    * rmdir [dir] : remove an empty directory
    * rm -R [dir] : remove a non-empty directory and its files
+   * touch [file] : create a file
    * rm [file] : delete a file
    * mv [file] [new filename] : rename a file
    * mv -v [file] [directory] : move a file to a new directory
@@ -75,6 +77,5 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 What does `xargs` do? Give an example of how to use it.
 
 > >  `xargs` supports building an execution pipeline from standard input
-
- 
-
+> > example: echo 'folder1 folder2' | xargs mkdir
+> > it will create two folders
